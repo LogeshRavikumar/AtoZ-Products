@@ -1,0 +1,16 @@
+/* .banner {
+  align-items: center;
+  width: 50%;
+} */
+
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.banner img {
+  width: 80%;
+  height: 70%;
+}

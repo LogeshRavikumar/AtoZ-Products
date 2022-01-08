@@ -1,0 +1,39 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: white;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #160202;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* /* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav-right {
+  float: right;
+}
+
+/* .banner {
+  width: 10px;
+  height: 50px;
+} */
+
+.banner img {
+  width: 100%;
+  height: 70vh;
+}
+
+.container {
+  background-color: black;
+}
